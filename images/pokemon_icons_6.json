@@ -745,31 +745,6 @@
 					}
 				},
 				{
-<<<<<<< HEAD
-					"filename": "2658-ash",
-=======
-					"filename": "658-ash",
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 40,
-						"h": 30
-					},
-					"spriteSourceSize": {
-						"x": 6,
-						"y": 7,
-						"w": 30,
-						"h": 23
-					},
-					"frame": {
-						"x": 101,
-						"y": 48,
-						"w": 30,
-						"h": 23
-					}
-				},
-				{
 					"filename": "693",
 					"rotated": false,
 					"trimmed": true,
@@ -833,7 +808,6 @@
 					}
 				},
 				{
-<<<<<<< HEAD
 					"filename": "2658",
 					"rotated": false,
 					"trimmed": true,
@@ -855,8 +829,27 @@
 					}
 				},
 				{
-=======
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
+					"filename": "2658-ash",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 30,
+						"h": 23
+					},
+					"frame": {
+						"x": 101,
+						"y": 48,
+						"w": 30,
+						"h": 23
+					}
+				},
+				{
 					"filename": "671-blue",
 					"rotated": false,
 					"trimmed": true,
@@ -899,7 +892,6 @@
 					}
 				},
 				{
-<<<<<<< HEAD
 					"filename": "2658s",
 					"rotated": false,
 					"trimmed": true,
@@ -922,9 +914,6 @@
 				},
 				{
 					"filename": "2658s-ash",
-=======
-					"filename": "658s-ash",
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {

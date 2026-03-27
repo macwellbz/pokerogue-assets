@@ -4,31 +4,14 @@
 			"image": "trainer_m_back_pb.png",
 			"format": "RGBA8888",
 			"size": {
-<<<<<<< HEAD
-				"w": 119,
-				"h": 208
-=======
 				"w": 115,
 				"h": 206
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 			},
 			"scale": 1,
 			"frames": [
 				{
 					"filename": "1",
 					"rotated": false,
-<<<<<<< HEAD
-					"trimmed": true,
-					"sourceSize": {
-						"w": 80,
-						"h": 117
-					},
-					"spriteSourceSize": {
-						"x": 7,
-						"y": 11,
-						"w": 60,
-						"h": 106
-=======
 					"trimmed": false,
 					"sourceSize": {
 						"w": 58,
@@ -39,41 +22,17 @@
 						"y": 0,
 						"w": 58,
 						"h": 105
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-<<<<<<< HEAD
-						"w": 60,
-						"h": 106
-=======
 						"w": 58,
 						"h": 105
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 					}
 				},
 				{
 					"filename": "2",
 					"rotated": false,
-<<<<<<< HEAD
-					"trimmed": true,
-					"sourceSize": {
-						"w": 80,
-						"h": 117
-					},
-					"spriteSourceSize": {
-						"x": 5,
-						"y": 1,
-						"w": 59,
-						"h": 116
-					},
-					"frame": {
-						"x": 60,
-						"y": 0,
-						"w": 59,
-						"h": 116
-=======
 					"trimmed": false,
 					"sourceSize": {
 						"w": 57,
@@ -90,30 +49,11 @@
 						"y": 0,
 						"w": 57,
 						"h": 115
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 					}
 				},
 				{
 					"filename": "3",
 					"rotated": false,
-<<<<<<< HEAD
-					"trimmed": true,
-					"sourceSize": {
-						"w": 80,
-						"h": 117
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 25,
-						"w": 76,
-						"h": 92
-					},
-					"frame": {
-						"x": 0,
-						"y": 116,
-						"w": 76,
-						"h": 92
-=======
 					"trimmed": false,
 					"sourceSize": {
 						"w": 75,
@@ -130,7 +70,6 @@
 						"y": 115,
 						"w": 75,
 						"h": 91
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 					}
 				}
 			]
@@ -139,10 +78,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-<<<<<<< HEAD
-		"smartupdate": "$TexturePacker:SmartUpdate:36135e173a201c11f063d344d0e1043e:c712b22058aabbe8d84a901cb26122c9:a2415e768fe30271bee6a79b25f7fd21$"
-=======
 		"smartupdate": "$TexturePacker:SmartUpdate:dc85f1f2c12882f8a2a53e9fad4ba49b:de8614e1e4494049a537d33fa1238455:a2415e768fe30271bee6a79b25f7fd21$"
->>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 	}
 }
