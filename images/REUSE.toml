@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SPDX-FileCopyrightText: 2025 Pagefault Games
+=======
+# SPDX-FileCopyrightText: 2026 Pagefault Games
+>>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
@@ -39,6 +43,7 @@ path = [
 "items/ribbon_steel.png",
 "items/ribbon_typeless.png",
 "items/ribbon_water.png",
+<<<<<<< HEAD
 "ui/apple_oath.png",
 "ui/github_oath.png",
 "ui/kakao_oath.png",
@@ -46,6 +51,15 @@ path = [
 "ui/pixiv_oath.png",
 "ui/reddit_oath.png",
 "ui/steam_oath.png",
+=======
+"ui/apple_oauth.png",
+"ui/github_oauth.png",
+"ui/kakao_oauth.png",
+"ui/line_oauth.png",
+"ui/pixiv_oauth.png",
+"ui/reddit_oauth.png",
+"ui/steam_oauth.png",
+>>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 "snow.png",
 ]
 SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
@@ -9364,5 +9378,9 @@ path = [
 "pokemon_icons_3v.json",
 "statuses_fr.json",
 ]
+<<<<<<< HEAD
 SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
+=======
+SPDX-FileCopyrightText = "2024-2026 Pagefault Games"
+>>>>>>> b38f64a48b1d83c84e883894510464d2cf7a2e05
 SPDX-License-Identifier = "AGPL-3.0-only"
